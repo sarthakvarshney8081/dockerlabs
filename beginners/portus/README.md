@@ -57,6 +57,12 @@ docker run -d \
 git clone https://github.com/SUSE/Portus
 ```
 
+## Change directory into the cloned folder
+
+```
+cd Portus
+```
+
 ## Bring up Portus Application
 
 ```
@@ -87,9 +93,9 @@ portus_webpack_1      bash /srv/Portus/examples/    Up
 
 ```
 
-![My image](https://github.com/collabnix/dockerlabs/blob/master/beginners/portus/Portus_11.png)
+![My image](https://raw.githubusercontent.com/collabnix/dockerlabs/master/beginners/portus/Portus_11.png)
 
-![My image](https://github.com/collabnix/dockerlabs/blob/master/beginners/portus/Portus_2.png)
+![My image](https://raw.githubusercontent.com/collabnix/dockerlabs/master/beginners/portus/Portus_2.png)
 
 
 ## Provide Docker Registry Details
@@ -103,9 +109,9 @@ Once you login to Portus, you will need to provide Docker Registry details:
 
 **Please remember that Portus is designed to handle only a single private Registry.**
 
-![My image](https://github.com/collabnix/dockerlabs/blob/master/beginners/portus/Portus_3.png)
+![My image](https://raw.githubusercontent.com/collabnix/dockerlabs/master/beginners/portus/Portus_3.png)
 
- ## Creating Users & Team
+## Creating Users & Team
  
  Say, you have 4-5 teams inside your organization namely,
  
@@ -120,7 +126,7 @@ Once you login to Portus, you will need to provide Docker Registry details:
  
  
  
- ## Contributor
+## Contributor
  
  - [Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
  

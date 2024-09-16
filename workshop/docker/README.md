@@ -1,18 +1,20 @@
 ## Docker WorkShop for Beginners 
 
-![](https://raw.githubusercontent.com/collabnix/dockerlabs/master/workshop/docker/dockerlabs.png)
-
 
 
 ### Pre-requisite:
 
-- [Creating Your DockerHub Account](https://github.com/collabnix/dockerlabs/blob/master/workshop/docker/dockerhub.md)
+- [Creating Your DockerHub Account](https://dockerlabs.collabnix.com/workshop/docker/dockerhub)
 
 ### Getting Started with Docker Image
+
 
 - [Running Hello World Example](https://collabnix.github.io/dockerlabs/beginners/helloworld/) 
   - [Slides](http://dockerlabs.collabnix.com/presentation/docker_workshop_1.html#/)
 - [Working with Docker Image](https://collabnix.github.io/dockerlabs/beginners/workingwithdockerimage.html)
+
+
+
   - [Slides](http://dockerlabs.collabnix.com/presentation/docker_workshop_1.html#/12)
 - [Saving Images and Containers as Tar Files for Sharing](http://dockerlabs.collabnix.com/beginners/saving-images-as-tar/)
   - [Slides](http://dockerlabs.collabnix.com/presentation/docker_workshop_1.html#/22)
@@ -43,11 +45,11 @@
    - [Lab #4: CMD instruction](https://dockerlabs.collabnix.com//beginners/dockerfile/lab4_cmd.html)<br>
    - [Lab #5: ENTRYPOINT instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Dockerfile-ENTRYPOINT.html)<br>
    - [Lab #6: WORKDIR instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/WORKDIR_instruction.html)<br>
-   - [Lab #7: RUN instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab-7-Create-an-image-with-EXPOSE-instruction.html)<br>
+   - [Lab #7: RUN instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%237_RUN_instruction.html)<br>
    - [Lab #8: ARG instruction](https://dockerlabs.collabnix.com//beginners/dockerfile/arg.html)<br>
-   - [Lab #9: ENV instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab_%239:ENV_instruction.html)<br>
-   - [Lab #10: VOLUME instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%2310:VOLUME_instruction.html)<br>
-   - [Lab #11: EXPOSE instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%2311:EXPOSE_instruction.html)<br>
+   - [Lab #9: ENV instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab_%239_ENV_instruction.html)<br>
+   - [Lab #10: VOLUME instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%2310_VOLUME_instruction.html)<br>
+   - [Lab #11: EXPOSE instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%2311_EXPOSE_instruction.html)<br>
    - [Lab #12: LABEL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Label_instruction.html)<br>
    - [Lab #13: ONBUILD instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/onbuild.html)<br>
    - [Lab #14: HEALTHCHECK instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck.html)<br>
@@ -81,5 +83,3 @@
    - [Lab #8: Configure NAT for external connectivity](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
  
  
-
-
